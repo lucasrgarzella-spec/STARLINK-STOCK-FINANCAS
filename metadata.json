@@ -1,0 +1,7 @@
+{
+  "name": "Starlink Stock Pro",
+  "description": "Aplicativo profissional para gestão de estoque e vendas de produtos Starlink com suporte a fotos e relatórios financeiros.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
